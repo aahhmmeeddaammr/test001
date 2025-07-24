@@ -1,6 +1,6 @@
 import "./App.css";
 import About from "./components/About/About";
-import Contact from "./components/contact/Contact";
+import Contact from "./components/Contact/Contact";
 import Layout from "./components/LayOut/Layout";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./components/Home/Home";
